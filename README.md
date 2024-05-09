@@ -1,4 +1,4 @@
-# bitcoin_price-_prediction
+# Bitcoin Price Prediction
 
 # Bitcoin Stock Price Prediction using LSTM
 
@@ -16,7 +16,7 @@ This project develops a predictive model for Bitcoin prices using Long Short-Ter
 ## Description
 The project uses LSTM to handle the sequence prediction problem inherent in time series data like stock prices. LSTMs are well-suited for making predictions based on time series data due to their ability to capture long-term dependencies.
 
-## Installation## Usage
+## Installation
 To use this project, follow these steps:
 
 1. Clone the repository:
