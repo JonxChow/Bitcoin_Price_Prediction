@@ -22,13 +22,19 @@ To use this project, follow these steps:
    git clone https://github.com/JonxChow/Bitcoin_Price_Prediction.git
 2. Navigate to Directory:
    ```bash
-   cd btc_price_prediction_lstm
-3. Install requirements
+   cd Bitcoin_Price_Prediction
+3. Set up Virtual Environment
+   ```bash
+   conda create --name btc-env python=3.10
+   conda activate btc-env
+4. Install requirements
    ```bash
    pip install -r requirements.txt
 
 ## Usage
-jupyter notebook btc_price_prediction_lstm.ipynb
+1. Open and Run Notebook
+   ```bash
+   jupyter notebook btc_price_prediction_lstm.ipynb
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
