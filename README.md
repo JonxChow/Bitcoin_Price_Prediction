@@ -11,7 +11,7 @@ This project develops a predictive model for Bitcoin prices using Long Short-Ter
 4. [Contributing](#contributing)
 5. [License](#license)
 6. [Contact](#contact)
-7. [Acknowledgments](#acknowledgments)
+7. [Acknowledgements](#acknowledgements)
 
 ## Description
 The project uses LSTM to handle the sequence prediction problem inherent in time series data like stock prices. LSTMs are well-suited for making predictions based on time series data due to their ability to capture long-term dependencies.
@@ -41,4 +41,8 @@ Distributed under the MIT License. See LICENSE for more information.
 ## Contact
 Jonathan Chow - jchow8685@gmail.com
 
-
+## Acknowledgements
+• NumPy
+• Pandas
+• Matplotlib
+• TensorFlow
