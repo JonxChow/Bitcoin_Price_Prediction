@@ -1,5 +1,3 @@
-# Bitcoin Price Prediction
-
 # Bitcoin Stock Price Prediction using LSTM
 
 This project develops a predictive model for Bitcoin prices using Long Short-Term Memory (LSTM) networks, a special kind of Recurrent Neural Network (RNN). The model aims to predict future Bitcoin prices based on historical data, demonstrating the application of deep learning techniques in financial markets.
