@@ -34,7 +34,7 @@ To use this project, follow these steps:
 ## Usage
 1. Open and Run Notebook
    ```bash
-   jupyter notebook btc_price_prediction_lstm.ipynb
+   jupyter notebook
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
