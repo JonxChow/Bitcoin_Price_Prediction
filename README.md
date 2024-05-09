@@ -19,9 +19,13 @@ To use this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/btc_price_prediction_lstm.git
-2. cd btc_price_prediction_lstm
-3. pip install -r requirements.txt
+   git clone https://github.com/JonxChow/Bitcoin_Price_Prediction.git
+2. Navigate to Directory:
+   ```bash
+   cd btc_price_prediction_lstm
+3. Install requirements
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 jupyter notebook btc_price_prediction_lstm.ipynb
